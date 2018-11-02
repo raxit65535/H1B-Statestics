@@ -29,7 +29,7 @@ coding challange for Insight global
 # run.sh for running the code
 - As specified in the requirement section, created run.sh file which include bash command to run the .py file by passing the
    data set as a command line argument.
-- Here both the output files (top_10_occupations.txt & top_10_states.txt) will be generated in "output" folder, so need need to give       output file path as command line argument. We will only provide the path of dataset as command line argument as shown below. (here my   dataset is inside input folder, hence I am giving path ./input/"dataset-name"
+- Here both the output files (top_10_occupations.txt & top_10_states.txt) will be generated in "output" folder, so need need to give       output file path as command line argument. We will only provide the path of dataset as command line argument as shown below. (here my   dataset is inside input folder, hence I am giving path ./input/"dataset-name")
 - $> python3 ./src/InsightGlobal-DataEngineering.py ./input/h1b_input.csv
   
 - I have tested the code on the three csv datasets H1B_FY_2014.csv, H1B_FY_2015.csv, H1B_FY_2016.csv share on parent repository.
