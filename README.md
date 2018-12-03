@@ -44,8 +44,6 @@ coding challange for Insight global
    I took the first JOB_TITLE occurance in dataset, which is associated with SOC_CODE. I have provided detail comments to explain 
    each step.
  
- # Thanking note
- - I would like to extend my gratitude to give me this wonderful opportunity. Completing the coding challange was a great 
-   learning experience. Thank you :)
+
    
 ###### note: I was working on different repository at first, but I tried to push the dataset of more than 100 MB on that repository and by mistake commit the transaction. Since, then I was not able to push anything, so I made this new repo from scratch after the development was over.
