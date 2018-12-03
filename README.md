@@ -43,7 +43,3 @@ coding challange for Insight global
    I am not sure how the JOB_TITLE should be matched with SOC_CODE optimistically, but here in my implementation, 
    I took the first JOB_TITLE occurance in dataset, which is associated with SOC_CODE. I have provided detail comments to explain 
    each step.
- 
-
-   
-###### note: I was working on different repository at first, but I tried to push the dataset of more than 100 MB on that repository and by mistake commit the transaction. Since, then I was not able to push anything, so I made this new repo from scratch after the development was over.
